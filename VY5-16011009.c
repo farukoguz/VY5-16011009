@@ -190,7 +190,7 @@ char * infixToPostfix(char *infix)
 	strcpy(postfix,"");//reset the space with 0
 	char *part = strtok(infix, " ");//split the infix to their parts
 	
-	printf("\n  POSTFIX FORM      STACK VALUES\n");
+	printf("\n  POSTFIX FORM         STACK VALUES\n");
 	while( part)
 	{
 		if ((part[0] >= 'a' && part[0] <= 'z') || (part[0] >= '0' && part[0] <= '9')) 
