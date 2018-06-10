@@ -1,5 +1,6 @@
-# VY5-16011009
+# Arithmetic Calculator
  Data Structers and Algorithms Final Homework
+ Hi there, I am a student in Yildiz Tecnical Univercity with number 16011009 named Ramazan Faruk Oğuz
 
  In this homework I tried to implement an arithmetic calculator.
 In implementing process I got lots of problems and after that I fix them one by one using
