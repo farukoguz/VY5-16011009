@@ -134,7 +134,7 @@ void printExpression(char *postfix, stack *op)
 	
 	initialize(&temp1); // initialize the temporary stack for use
 	
-	printf("%17s|",postfix); // first write the postfix notation after write the stack values
+	printf("%-20s|",postfix); // first write the postfix notation after write the stack values
 	if (isEmpty(op) == 1) // if the stack is empty we don't need to do the other parts
 	{
 		printf("Stack Is Empty");
