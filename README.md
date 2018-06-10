@@ -7,8 +7,8 @@ divide and conquer approach to code. I write the code dividing functions.
 
  I labored to describe what I have done in code using command lines.
  
- The result of the program can be viewed in the links
- First part of the output
-  https://ibb.co/fkMVL8
+ The result of the program can be viewed in the links 
+ First part of the output 
+  https://ibb.co/fkMVL8 
  The following page will be like this
-  https://ibb.co/hqMVL8
+   https://ibb.co/hqMVL8
