@@ -11,6 +11,7 @@ divide and conquer approach to code. I write the code dividing functions.
  First part of the output 
  
   https://ibb.co/fkMVL8
+  
  The following page will be like this
  
   https://ibb.co/hqMVL8
